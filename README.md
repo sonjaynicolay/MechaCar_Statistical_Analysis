@@ -53,6 +53,12 @@ At this time there is some discrepency with the data from Lot 3. As we can see t
 
 ## T-Tests on Suspension Coils
 
+
+Using the t.test() and its subset() argument function, I wrote and ran 4 T-test to determine if the PSI across all manufacturing lots were statistically different from the population mean of 1,500 pounds per square inch.
+
+Looking at the test and results below the PSI across all manufacturing lots were not significantly statistically different.
+
+
 ![T Test 1](Images/t_test_1.jpg)
 
 ![T Test 2](Images/t_test_2.jpg)
