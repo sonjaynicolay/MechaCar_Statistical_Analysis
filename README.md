@@ -1,3 +1,6 @@
+![Mecha Image](Mecha_Image.jpg)
+
+
 # MechaCar Statistical Analysis
 ***
 
