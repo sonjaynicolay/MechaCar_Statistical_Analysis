@@ -23,7 +23,8 @@
 
 
 #### Total Summary
-![Total Summary](images/Total_Summary_image.jpg)
+
+![Total Summary](Images/Total_Summary_image.jpg)
 
 #### Lot Summary
 
