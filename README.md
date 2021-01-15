@@ -8,7 +8,7 @@
 
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+Vehicle Weight provided a non-random variance to the mpg values.
 
 
 
