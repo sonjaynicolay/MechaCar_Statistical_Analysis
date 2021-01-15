@@ -50,9 +50,16 @@ At this time there is some discrepency with the data from Lot 3. As we can see t
 
 
 ***
+
 ## T-Tests on Suspension Coils
 
+![T Test 1](Images/t_test_1.jpg)
 
+![T Test 2](Images/t_test_2.jpg)
+
+![T Test 3](Images/t_test_3.jpg)
+
+![T Test 4](Images/t_test_4.jpg)
 
 
 ***
