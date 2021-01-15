@@ -8,17 +8,17 @@
 
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Vehicle Weight provided a non-random variance to the mpg values.
+Vehicle Length and Ground Clearance provided a non-random variance to the mpg values. Their p-values were significantly less than .05. 
 
 
 
 * Is the slope of the linear model considered to be zero? Why or why not?
-
+The slope is not considered to be zero, the independent variables did appear to eefect the dependent variable causing a slope. 
 
 
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+This particular linear model is considered to predict MPG of MechaCar prototypes. By observing the R-Squared value or .7149. we are able to determine that the model will predict the MPG of MechaCar prototypes correctly between 71-72% of the time.
 
 
 ***
