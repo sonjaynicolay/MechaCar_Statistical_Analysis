@@ -31,6 +31,9 @@ This particular linear model is considered to predict MPG of MechaCar prototypes
 ## Summary Statistics on Suspension Coils
 
 
+In this section of the analysis I took a look at the total summary of suspension coil dataset. After getting the total summary I split the data by the  three lot numbers, to create a lot summary. This allows for a further analysis is possible variation in manufacturing and other contributing factors.
+
+
 #### Total Summary
 
 ![Total Summary](Images/Total_Summary_image.jpg)
@@ -42,6 +45,8 @@ This particular linear model is considered to predict MPG of MechaCar prototypes
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+
+At this time there is some discrepency with the data from Lot 3. As we can see the variance is more than double the total summary amount. At this time Lot 1 and Lot 2 meet the design specifications. The total summary is also within range. It would be best to use scrap Lot 3.
 
 
 ***
