@@ -23,7 +23,7 @@
 
 
 #### Total Summary
-![Total Summary](master/3DTest.png)
+![Total Summary](images/Total_Summary_image.jpg)
 
 #### Lot Summary
 
