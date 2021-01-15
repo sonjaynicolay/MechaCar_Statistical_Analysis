@@ -76,17 +76,21 @@ Looking at the test and results below the PSI across all manufacturing lots were
 
 * What metric or metrics are you going to test?
 
+In a statistical study that could quantify how MechaCar performs against the competitition I would include safety rating, maintenance cost and city fuel efficiency in family vehicles and larger models. In smaller, faster models I would focus on and probably emphasis highway fuel efficiency, horse power and cost. 
 
 
 
 * What is the null hypothesis or alternative hypothesis?
-
+Vehicles with lower horse power have a better saftety rating.
 
 
 
 * What statistical test would you use to test the hypothesis? And why?
+I believe I would use an ANOVA test for safety rating and horse power and look at ways to breakdown the types of vehicles (family versus sports models).
 
+I may also take a look at the possibilities of running mulitple others tests to see the links and variance between classification of hybrid models. 
 
 
 
 * What data is needed to run the statistical test?
+I would need safety rating data as well as vehicle stats, that list engine specs & vehciles descriptions, etc.
