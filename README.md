@@ -31,7 +31,7 @@ This particular linear model is considered to predict MPG of MechaCar prototypes
 ## Summary Statistics on Suspension Coils
 
 
-In this section of the analysis I took a look at the total summary of suspension coil dataset. After getting the total summary I split the data by the  three lot numbers, to create a lot summary. This allows for a further analysis is possible variation in manufacturing and other contributing factors.
+In this section of the analysis I took a look at the total summary of suspension coil dataset. After getting the total summary I split the data by the  three lot numbers, to create a lot summary. This allows for further analysis and shows that there is possible variation in manufacturing and other contributing factors.
 
 
 #### Total Summary
